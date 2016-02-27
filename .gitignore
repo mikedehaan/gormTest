@@ -1,0 +1,9 @@
+.idea
+.slcache
+/**/.classpath
+/**/.project
+/**/.asscache
+/**/*.iml
+target
+target-eclipse
+out/**
